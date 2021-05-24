@@ -69,6 +69,16 @@ http://103.153.175.254:8080/hls/stream33.m3u8
 http://103.153.175.254:8080/hls/stream34.m3u8
 #EXTINF:-1,Channel 35
 http://103.153.175.254:8080/hls/stream35.m3u8
+#EXTINF:-1,Channel 36
+http://103.153.175.254:8080/hls/stream36.m3u8
+#EXTINF:-1,Channel 37
+http://103.153.175.254:8080/hls/stream37.m3u8
+#EXTINF:-1,Channel 38
+http://103.153.175.254:8080/hls/stream38.m3u8
+#EXTINF:-1,Channel 39
+http://103.153.175.254:8080/hls/stream39.m3u8
+#EXTINF:-1,Channel 40
+http://103.153.175.254:8080/hls/stream40.m3u8
 
 
 
